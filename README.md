@@ -7,7 +7,7 @@ Unlike other complex syncing tools, ScriptSync requires zero project configurati
 ## Features
 - **Real-Time AI/IDE Editing**: Edit your `.lua` scripts locally with any IDE and instantly inject them back into Roblox.
 - **Smart Folder Structure**: Maintains your exact game hierarchy (Workspace, ServerScriptService, ReplicatedStorage, etc.).
-- **Automatic Game Sorting**: Automatically separates exported scripts into different folders based on your `game.Name`.
+- **Automatic Game Sorting**: Automatically separates exported scripts into different folders based on your `game.Name`. *(⚠️ **Note:** There is currently a known bug where the folder is sometimes just named "Unknown" or "UnknownGame". I am actively working on a fix for this! In the meantime, you can just manually rename the folder yourself.)*
 - **Zero Configuration**: No complicated `.json` or project setup required. Plug and play.
 
 ---
