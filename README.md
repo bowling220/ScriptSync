@@ -12,6 +12,11 @@ Unlike other complex syncing tools, ScriptSync requires zero project configurati
 
 ---
 
+## 🌟 Coming Soon
+- **Instant Auto-Sync**: Currently, you must click the "Sync Back" button to see your edits in Roblox. We are working on an auto-sync feature where any code you save intelligently writes back to Roblox instantly with zero delay!
+
+---
+
 ## 🚀 How to Use
 
 ### Step 1: Start the Local Server
