@@ -129,6 +129,6 @@ const server = http.createServer((req, res) => {
 
 const PORT = 8080;
 server.listen(PORT, () => {
-    console.log(`Roblox IDE Sync Server running on port ${PORT}...`);
+    console.log(`Roblox ScriptSync Server running on port ${PORT}...`);
     console.log(`Base Directory: ${BASE_DIR}`);
 });
